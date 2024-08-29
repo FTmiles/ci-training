@@ -11,6 +11,7 @@ class DemoApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+
 	@Test
 	public void testAlwaysPasses() {
 		// This test always passes
